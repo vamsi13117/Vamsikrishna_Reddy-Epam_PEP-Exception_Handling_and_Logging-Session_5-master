@@ -1,0 +1,17 @@
+2020-03-04 00:03:13 INFO  com.epam.logging.App:20 - info
+2020-03-04 00:03:13 DEBUG com.epam.logging.App:21 - debug
+2020-03-04 00:03:13 WARN  com.epam.logging.App:22 - warn
+2020-03-04 00:03:13 ERROR com.epam.logging.App:23 - error
+2020-03-04 00:03:13 FATAL com.epam.logging.App:24 - fatal
+2020-03-04 00:03:13 INFO  com.epam.logging.App:31 - Amount after Simple Interest = 3000.0
+2020-03-04 00:03:13 INFO  com.epam.logging.App:35 - 
+Amount after Compound Interest = 428750.0
+2020-03-04 00:03:13 INFO  com.epam.logging.App:41 - 
+
+Total house cost for standard materials and area 1000 sqft = INR 1200000
+2020-03-04 00:03:13 INFO  com.epam.logging.App:44 - 
+Total house cost for above standard materials and area 1000 sqft = INR 1500000
+2020-03-04 00:03:13 INFO  com.epam.logging.App:47 - 
+Total house cost for high standard materials and area 1000 sqft = INR 1800000
+2020-03-04 00:03:13 INFO  com.epam.logging.App:50 - 
+Total house cost for high standard and automated materials and area 1000 sqft = INR 2500000
